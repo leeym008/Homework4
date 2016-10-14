@@ -13,7 +13,7 @@ public class ExamForWhile {
 //	4. 원하는 구구단 출력하기 
 //	5. 짝수단/홀수단 출력하기
 //	6. 종료하기
-//
+//1
 //	원하는 메뉴는>> 1
 
 	public static void main(String[] args) {
